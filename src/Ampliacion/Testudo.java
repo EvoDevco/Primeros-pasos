@@ -1,5 +1,6 @@
 package Ampliacion;
 import java.util.Scanner;
+//QUE LOCURAAAA
 public class Testudo {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
