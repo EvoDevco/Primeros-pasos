@@ -13,6 +13,6 @@ class Ejercicio_35 {
             repeticiones++;
             resultado -= divisor;
         }
-        System.out.println("El resultado de la multiplicacion es: " + repeticiones + " y se ha realizado en " + repeticiones + " repeticiones.");
+        System.out.println("El resultado de la division es: " + repeticiones + " y se ha realizado en " + repeticiones + " repeticiones.");
     }
 }
